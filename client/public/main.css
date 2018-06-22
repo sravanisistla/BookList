@@ -1,0 +1,21 @@
+.row.content {height: 100%}
+    
+.sidenav {
+  border: none;
+  border-right: 1px solid #f1f1f1;
+  height: 100%;
+  padding: 0px !important
+}
+.listItem{
+    border-bottom: 1px solid #f1f1f1;
+}
+.pad15h{
+    padding-left : 15px !important;
+    padding-right : 15px !important
+}
+
+header {
+  background-color: #f1f1f1;
+  color: black;
+  padding: 15px;
+}
